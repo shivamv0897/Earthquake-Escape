@@ -1,4 +1,4 @@
-# Earthquake-esc
+# Earthquake-escape
 This app shows escape routes from Earthquake zones.
 
 This is an Applet based application.
